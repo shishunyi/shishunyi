@@ -2,11 +2,8 @@
     "name": "ssy/shihsunyi",
     "description": "石顺义的测试包",
     "type": "project",
-    "keywords": [
-        "framework",
-        "thinkphp",
-        "ORM"
-    ],
+    "minimum-stability": "dev",
+    "prefer-stable": "true",
     "homepage": "http://www.baidu.com",
     "license": "Apache-2.0",
     "authors": [
