@@ -1,18 +1,18 @@
 {
     "name": "ssy/shihsunyi",
-    "description": "the new thinkphp framework",
+    "description": "石顺义的测试包",
     "type": "project",
     "keywords": [
         "framework",
         "thinkphp",
         "ORM"
     ],
-    "homepage": "http://thinkphp.cn/",
+    "homepage": "http://www.baidu.com",
     "license": "Apache-2.0",
     "authors": [
         {
-            "name": "liu21st",
-            "email": "liu21st@gmail.com"
+            "name": "shishunyi",
+            "email": "784971904@qq.com"
         }
     ],
     "require": {
